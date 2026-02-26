@@ -91,20 +91,6 @@ ask_me_about: [PHP, Laravel, JavaScript, Vue.js, Python, Java]
 
 </div>
 
----
-
-### 📈 Activity Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jooseeruu&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jooseeruu&theme=minimal&hide_border=true" alt="Activity Graph" />
-</picture>
-
-</div>
-
----
 
 <div align="center">
 
