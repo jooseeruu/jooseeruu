@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F7B32B&height=200&section=header&text=Rubén%20Arjona&fontSize=52&fontColor=fff&fontAlignY=55&desc=Full%20Stack%20Web%20Developer%20%7C%20Spain%20🇪🇸&descAlignY=75&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://raw.githubusercontent.com/jooseeruu/jooseeruu/main/terminal_header.svg" width="100%" alt="terminal header"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=F7B32B&center=true&vCenter=true&width=600&lines=php+artisan+make%3Asomething-great+%F0%9F%9A%80;git+commit+-m+%22always+learning%22;npm+run+dev+%2F%2F+DutyFree+Express;Building+on+the+web+since+day+one.)](https://github.com/jooseeruu)
 
 <br/>
 
@@ -41,10 +40,10 @@ status:     "open to new opportunities 👀"
 <tr>
 <td width="50%" valign="top">
 
-### ✈️ DutyFree Express TFG
+### ✈️ DutyFree Express
 > *Actualmente en desarrollo activo*
 
-Plataforma e-commerce duty-free con integración logística personalizada. Arquitectura moderna pensada para escalar (TEÓRICO).
+Plataforma e-commerce duty-free con integración logística personalizada. Arquitectura moderna pensada para escalar.
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
@@ -56,7 +55,7 @@ Plataforma e-commerce duty-free con integración logística personalizada. Arqui
 ### ⚓ NautiPaints
 > *E-commerce especializado*
 
-Tienda de pinturas náuticas con módulos PrestaShop a medida y optimizaciones de plataforma.
+Tienda de pinturas náuticas con módulos PrestaShop a medida, hooks personalizados y optimizaciones de plataforma.
 
 ![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
