@@ -1,100 +1,137 @@
 <div align="center">
 
-# Hi, I'm Ruben Arjona <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F7B32B&height=120&section=header&text=Rub%C3%A9n%20Arjona&fontSize=42&fontColor=fff&fontAlignY=65&desc=Full%20Stack%20Web%20Developer&descAlignY=85&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B32B&center=true&vCenter=true&width=600&height=80&lines=Full+Stack+Web+Developer;Backend+%26+Frontend+Specialist;Always+learning+new+tech+%F0%9F%9A%80)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=F7B32B&center=true&vCenter=true&width=600&height=45&lines=php+artisan+make%3Asomething-great;git+commit+-m+%22always+learning+%F0%9F%9A%80%22;npm+run+dev+%2F%2F+DutyFree+Express;vue+create+the-future)](https://github.com/jooseeruu)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjona2908@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-rub%C3%A9n-arjona-jim%C3%A9nez/)
+[![Email](https://img.shields.io/badge/arjona2908%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arjona2908@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/José%20Rubén%20Arjona-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-rub%C3%A9n-arjona-jim%C3%A9nez/)
+[![GitHub](https://img.shields.io/badge/jooseeruu-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jooseeruu)
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### `$ whoami`
 
 ```yaml
-name: Ruben Arjona
-role: Full Stack Web Developer
-location: Spain 🇪🇸
-currently_working_on: DutyFree Express
-learning: Data Structures & Algorithms
-ask_me_about: [PHP, Laravel, JavaScript, Vue.js, Python, Java]
+name:          "Rubén Arjona"
+role:          "Full Stack Web Developer"
+location:      "Spain 🇪🇸"
+working_on:    ["DutyFree Express", "NautiPaints"]
+learning:      "Data Structures & Algorithms"
+ask_me_about:  [PHP, PrestaShop, Laravel, Vue.js, Python, Java]
+open_to:       "new opportunities"
 ```
 
 ---
 
-### 🛠️ Tech Stack
+### `$ ls ./stack`
 
-#### Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
+**Languages**
 
-#### Frameworks & Libraries
-<p align="center">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white" />
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-#### Databases & Management
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
-</p>
+**Frameworks & Libraries**
 
-#### Tools & Infrastructure
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-</p>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?style=flat-square&logo=prestashop&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white)
+
+**Tools & Infra**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### `$ cat ./projects`
+
+<table>
+<tr>
+<td width="50%">
+
+**⚓ NautiPaints**
+
+E-commerce especializado en pinturas náuticas. Customización avanzada de PrestaShop, desarrollo de módulos a medida e integración de pasarelas de pago.
+
+![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?style=flat-square&logo=prestashop&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+<td width="50%">
+
+**✈️ DutyFree Express**
+
+Plataforma e-commerce duty-free con integración logística personalizada. Actualmente en desarrollo activo.
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+
+</td>
+</tr>
+</table>
+
+---
+
+### `$ git log --stats`
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jooseeruu&theme=tokyonight&hide_border=true&background=0D1117" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jooseeruu&theme=default&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jooseeruu&theme=tokyonight&hide_border=true&background=0D1117&ring=F7B32B&fire=F7B32B&currStreakLabel=F7B32B" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jooseeruu&theme=default&hide_border=true&ring=F7B32B&fire=F7B32B&currStreakLabel=F7B32B" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jooseeruu&theme=tokyonight&hide_border=true&ring=F7B32B&fire=F7B32B&currStreakLabel=F7B32B" />
 </picture>
 
 <br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jooseeruu&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jooseeruu&theme=default" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jooseeruu&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jooseeruu&theme=tokyonight" />
 </picture>
 
 <br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jooseeruu&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jooseeruu&theme=default" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jooseeruu&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jooseeruu&theme=tokyonight" />
 </picture>
 &nbsp;
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jooseeruu&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jooseeruu&theme=default" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jooseeruu&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jooseeruu&theme=tokyonight" />
 </picture>
 
 </div>
 
+---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=jooseeruu&color=F7B32B&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=jooseeruu&color=F7B32B&style=flat-square&label=profile+views)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F7B32B&height=80&section=footer" width="100%"/>
 
 </div>
 
