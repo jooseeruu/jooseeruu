@@ -67,7 +67,7 @@ open_to:       "new opportunities"
 
 **⚓ NautiPaints**
 
-E-commerce especializado en pinturas náuticas. Customización avanzada de PrestaShop, desarrollo de módulos a medida e integración de pasarelas de pago.
+E-commerce especializado en pinturas náuticas. Customización avanzada de PrestaShop, desarrollo de módulos a medida y optimización de la plataforma.
 
 ![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?style=flat-square&logo=prestashop&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
