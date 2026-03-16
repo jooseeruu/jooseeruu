@@ -41,10 +41,10 @@ status:     "open to new opportunities 👀"
 <tr>
 <td width="50%" valign="top">
 
-### ✈️ DutyFree Express
+### ✈️ DutyFree Express TFG
 > *Actualmente en desarrollo activo*
 
-Plataforma e-commerce duty-free con integración logística personalizada. Arquitectura moderna pensada para escalar.
+Plataforma e-commerce duty-free con integración logística personalizada. Arquitectura moderna pensada para escalar (TEÓRICO).
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
