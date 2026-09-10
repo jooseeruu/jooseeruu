@@ -24,7 +24,7 @@ Nautical paints platform serving real customers. I worked across the full cycle:
 - `TODO — one thing you owned alone, end to end.`
 
 `PHP` `MySQL` `Apache` `Smarty` `Bootstrap`
-🔗 [nautipaints.com]([https://nautichandler.com])
+🔗 [nautichandler.com](https://nautichandler.com)
 
 ---
 
