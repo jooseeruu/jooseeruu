@@ -1,123 +1,80 @@
-<div align="center">
+# Rubén Arjona
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0d0d,50:1a3a1a,100:0d2b0d&height=220&section=header&text=Rubén%20Arjona&fontSize=58&fontColor=4CE64C&fontAlignY=58&fontAlign=36&animation=twinkling&desc=Full%20Stack%20Web%20Developer%20·%20Spain&descSize=16&descAlign=36&descAlignY=74&descFontColor=888888&rotate=-4" width="100%"/>
+**Full Stack Web Developer** — backend-first, PHP and Laravel/Vue
+Palma de Mallorca, Spain · open to remote and relocation
 
-<br/>
-
-[![Email](https://img.shields.io/badge/arjona2908%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjona2908@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/José%20Rubén%20Arjona-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-rub%C3%A9n-arjona-jim%C3%A9nez/)
-[![GitHub](https://img.shields.io/badge/jooseeruu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jooseeruu)
-
-</div>
-
-<br/>
+[![Email](https://img.shields.io/badge/arjona2908%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arjona2908@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-rub%C3%A9n-arjona-jim%C3%A9nez/)
+[![GitHub](https://img.shields.io/badge/jooseeruu-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jooseeruu)
 
 ---
 
-## 👤 &nbsp;`$ whoami`
+I build web applications end to end, and I'm most useful on the backend: data modelling, business logic, query performance. My working habit is to understand what a system is actually doing before touching it — which is also why most of what I build ends up running on infrastructure I administer myself rather than on a managed platform.
 
-```yaml
-name:       "Rubén Arjona"
-role:       "Full Stack Web Developer"
-location:   "Spain 🇪🇸"
-focus:      "Backend-first · Comfortable across the full stack"
-experience: "Production-level web development at NautiPaints"
-stack:      [ PHP, Apache, MySQL, Smarty, Bootstrap, CSS ]
-learning:   "Laravel · Vue.js · Data Structures & Algorithms"
-status:     "Open to new opportunities 👀"
-```
+Right now I'm deepening Laravel and Vue, and moving my own projects onto AWS.
 
 ---
 
-## 🙋 &nbsp;About me
+## Selected work
 
-Full Stack Web Developer with hands-on experience in a real production environment at **NautiPaints**, where I've worked across the entire development cycle — from database design to frontend implementation.
+### NautiPaints — e-commerce in production
+Nautical paints platform serving real customers. I worked across the full cycle: business logic in PHP, MySQL schema and query optimisation, Smarty templating, Bootstrap layouts, deployment on Apache.
 
-I'm comfortable working with PHP, Apache and MySQL, and I'm actively expanding my knowledge in Data structure and algorithms. I value understanding how systems work under the hood, not just making them run.
+- `TODO — one measurable result. Format: "cut catalogue load from Xs to Yms by removing N+1 queries", "reduced order-processing errors by X%", "migrated N products without downtime". Rough figures are fine; a number beats an adjective.`
+- `TODO — one thing you owned alone, end to end.`
 
-Currently looking for a team where I can keep growing technically while delivering real value from day one.
-
----
-
-## 🚀 &nbsp;`$ ls ./projects`
-
-<br/>
-
-<div align="center">
-<table>
-<tr>
-<td width="100%" valign="top">
-
-### ⚓ NautiPaints — *Production Experience*
-
-E-commerce platform specialised in nautical paints. Contributed to the maintenance and development of the platform in a live production environment: business logic in PHP, MySQL query optimisation, Smarty templating and Bootstrap-based layouts.
-
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://nautipaints.com)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Smarty](https://img.shields.io/badge/Smarty-4A90D9?style=for-the-badge&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-</td>
-</tr>
-</table>
-</div>
+`PHP` `MySQL` `Apache` `Smarty` `Bootstrap`
+🔗 [nautipaints.com](https://nautipaints.com)
 
 ---
 
-## 🛠️ &nbsp;`$ cat ./stack`
+<!-- ### OpenClaw — autonomous agent on a self-hosted VPS
+A long-running agent I designed, deployed and operate on my own server: process supervision, logging, failure recovery and cost control against an LLM backend (DeepSeek).
 
-<br/>
+- `TODO — what problem it solves for you, in one sentence. Concrete beats impressive.`
+- `TODO — one operational detail: uptime, how you handle restarts, how you cap spend.`
 
-<div align="center">
+`TODO: language/runtime` `Linux` `VPS` `Docker` `LLM APIs`
+🔗 `TODO: repo link — or delete this line if the repo stays private`
 
-**— Professional Experience —**
+--- 
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<br/>
+### Match probability model — statistical modelling pipeline
+A quantitative model for football match outcomes. Poisson distributions for scoreline probabilities, market-implied probabilities recovered by removing the bookmaker margin from sharp odds, Kelly criterion for position sizing, and a custom JavaScript scraper feeding the data layer.
 
-**— Actively Learning —**
+- Turns noisy public odds into calibrated probabilities and compares them against my own model's output.
+- Built and validated over a full tournament of match-by-match data.
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+`JavaScript` `Web scraping` `Statistical modelling` `Data pipelines`
+🔗 `TODO: repo link`
 
-<br/>
+---
+-->
 
-**— Tools —**
+## Stack
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-</div>
+| | |
+|---|---|
+| **In production** | PHP · MySQL · Apache · Smarty · Bootstrap · HTML/CSS |
+| **Building with** | Laravel · Vue 3 · JavaScript · Node.js |
+| **Infrastructure** | Linux · Docker · VPS administration · Git |
+| **In progress** | AWS Cloud Practitioner |
 
 ---
 
-## 📬 &nbsp;`$ ./contact.sh`
+## Currently
 
-Open to backend PHP, fullstack, or Laravel/Vue roles where I can keep growing while contributing from the start.
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/arjona2908%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjona2908@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-rub%C3%A9n-arjona-jim%C3%A9nez/)
-
-</div>
+- Studying for the **AWS Cloud Practitioner** certification
+- Migrating personal projects to containerised deployments
+- Building `TODO: your next Laravel + Vue project` — the goal is a small, finished, deployed app rather than another tutorial
 
 ---
 
-<div align="center">
+## Looking for
 
-![Profile Views](https://komarev.com/ghpvc/?username=jooseeruu&color=4CE64C&style=for-the-badge&label=PROFILE+VIEWS)
+Backend PHP, Laravel or full stack roles on a team that reviews code and ships often. I'd rather join somewhere I can contribute in the first weeks and still be learning a year in.
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0d0d,50:1a3a1a,100:0d2b0d&height=100&section=footer&reversal=true" width="100%"/>
+Available for remote work and open to relocating internationally.
 
-</div>
+**[arjona2908@gmail.com](mailto:arjona2908@gmail.com)** · [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-rub%C3%A9n-arjona-jim%C3%A9nez/)
